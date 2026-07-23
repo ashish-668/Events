@@ -14,7 +14,7 @@
     justify-content: center;
     height: 372px;
     background-image: url(/assets/images/bg-image-hero.jpg);
-    background-size: 100% 100%;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
